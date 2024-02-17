@@ -16,5 +16,5 @@
   - **Frontend Developer**
     - React, TypeScript, etc.
 - **Undergraduate Research Intern**(2021.07~2022.03)
-  - **Research Intern**
+  - **Computer System Lab Research Intern**
     - Python, PyTorch, C++, etc.

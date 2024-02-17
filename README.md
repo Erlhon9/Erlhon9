@@ -15,6 +15,6 @@
     - Django, Django REST framework, Nest.js, PostgreSQL, RESTful API, Graphql, etc.
   - **Frontend Developer**
     - React, TypeScript, etc.
-- **Undergraduate Research Intern**(2021.07~2022.03)
-  - **Computer System Lab Research Intern**
+- **Undergraduate Research Intern** - Computer System Lab(2021.07~2022.03)
+  - **Research Intern[Memory Efficient Deep Neural Network Architecture Design]**
     - Python, PyTorch, C++, etc.

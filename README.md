@@ -16,5 +16,5 @@
   - **Frontend Developer**
     - React, TypeScript, etc.
 - **Undergraduate Research Intern** - Computer System Lab(2021.07~2022.03)
-  - **Research Intern[Memory Efficient Deep Neural Network Architecture Design]**
+  - **Research Intern** - *Memory Efficient Deep Neural Network Architecture Design*
     - Python, PyTorch, C++, etc.

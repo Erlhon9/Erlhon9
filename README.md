@@ -20,4 +20,4 @@
 - Email: hongsbus@gmail.com
 - Blog: [Hongsbus](https://hongsbus.tistory.com/)
 - GitHub: [Erlhon9](https://github.com/Erlhon9), [HongsGit76(In B.A.)](https://github.com/HongsGit76)
-- Portfolio: [Tae Hong Kim](https://erlhon9.github.io/)
+- Portfolio: [Tae Hong Kim](https://hongsdiary.notion.site/191ebb7c93924410afa15fb6c5438d28/)
